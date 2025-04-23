@@ -25,9 +25,9 @@ Sou estudante de Ciência da Computação com interesse em linguagens de program
 
 ## Contato
 
-- **Email:** seuemail@example.com
-- **LinkedIn:** [Seu Perfil no LinkedIn](URL_do_linkedin)
-- **Twitter:** [@SeuPerfil](URL_do_twitter)
+- **Email:** Franciscoalano123@gmail.com
+- **LinkedIn:*Francisco Alano Lima da Silva* [](https://www.linkedin.com/in/francisco-alano-lima-da-silva/)
+
 
 ## Licença
 
