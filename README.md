@@ -26,7 +26,7 @@ Sou estudante de Ciência da Computação com interesse em linguagens de program
 ## Contato
 
 - **Email:** Franciscoalano123@gmail.com
-- **LinkedIn:*[Francisco Alano Lima da Silva]*(https://www.linkedin.com/in/francisco-alano-lima-da-silva/)
+- **LinkedIn:**[Francisco Alano Lima da Silva](https://www.linkedin.com/in/francisco-alano-lima-da-silva/)
 
 
 ## Licença
